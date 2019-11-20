@@ -21,6 +21,6 @@ In addition to the expected tracks, we’ve included a couple of newcomers, two 
 We’re looking forward to embarking on this ACL 2020 adventure with you!
 
 ## Your ACL 2020 Program Co-Chairs
-Joyce Chai (University of Michigan, USA)
-Natalie Schluter (IT University, Copenhagen, Denmark)
-Joel Tetreault (Dataminr, USA)
+Joyce Chai (University of Michigan, USA)  
+Natalie Schluter (IT University, Copenhagen, Denmark)  
+Joel Tetreault (Dataminr, USA)  

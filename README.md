@@ -11,22 +11,22 @@ Date: August 21, 2019
 Original Link: https://acl2020.org/blog/the-first-call-for-papers-is-out/  
 Chinese Version: https://bit.ly/334YfWG
 
-2. **PC Blog Post on Theme （关于本届大会主题）**  
+2. **PC Blog Post on Theme （关于主题论文）**  
 Date: October 4, 2019  
 Original Link: https://acl2020.org/blog/theme/  
 Chinese Version: (pending)
-
-2. **PC Blog Post on Author/Reviewer Profile (关于作者和审稿人的用户信息)**  
-Date: November 03, 2019  
-Original Link: https://acl2020.org/blog/author-reviewer-profile/  
-Chinese Version: https://bit.ly/2NEq4zq
 
 3. **Archive Papers and Double Submissions (关于预印本论文和重复投稿)**  
 Date: October 23, 2019  
 Original Link: https://acl2020.org/blog/arxiv-papers-double-submissions/  
 Chinese Version: https://bit.ly/2rixK2V
 
-4. **Improving ACL Conflict-of-interest Detection and Reviewer Matching (改善ACL利益冲突检测和审稿匹配流程)**  
+4. **PC Blog Post on Author/Reviewer Profile (关于作者和审稿人的用户信息)**  
+Date: November 03, 2019  
+Original Link: https://acl2020.org/blog/author-reviewer-profile/  
+Chinese Version: https://bit.ly/2NEq4zq
+
+5. **Improving ACL Conflict-of-interest Detection and Reviewer Matching (改善ACL利益冲突检测和审稿匹配流程)**  
 Date: November 13, 2019  
 Original Link: https://acl2020.org/blog/conflict-of-interest/  
 URL: https://bit.ly/2CGSvYJ
@@ -35,7 +35,6 @@ URL: https://bit.ly/2CGSvYJ
 ## Translation Permission
 The translation permission is obtained from ACL 2020 program committee.  
 我们已经获得了ACL 2020程序委员会的翻译授权。
-
 
 ## Follow Us / 关注我们
 Follow Joint Laboratory of HIT and iFLYTEK Research on WeChat.  

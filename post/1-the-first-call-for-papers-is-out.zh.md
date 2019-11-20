@@ -21,6 +21,6 @@ ACL 2020的论文提交截止日期早于前几年的设置。由于今年没有
 我们期待与您一同踏上ACL 2020冒险之旅！
 
 ## ACL 2020程序委员会主席
-Joyce Chai （密歇根大学，美国）
-Natalie Schluter （IT大学，哥本哈根，丹麦）
-Joel Tetreault（Dataminr，美国）
+Joyce Chai （密歇根大学，美国）  
+Natalie Schluter （IT大学，哥本哈根，丹麦）  
+Joel Tetreault（Dataminr，美国）  
