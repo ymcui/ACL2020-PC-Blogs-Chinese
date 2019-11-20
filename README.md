@@ -8,12 +8,12 @@
 ## Recent Post
 1. **The First Call for Papers is Out! （发布首次征稿通知！）**  
 Date: August 21, 2019  
-Original Link: https://acl2020.org/blog/the-first-call-for-papers-is-out/
+Original Link: https://acl2020.org/blog/the-first-call-for-papers-is-out/  
 Chinese Version: https://bit.ly/334YfWG
 
 2. **PC Blog Post on Theme （关于本届大会主题）**  
 Date: October 4, 2019  
-Original Link: https://acl2020.org/blog/theme/
+Original Link: https://acl2020.org/blog/theme/  
 Chinese Version: (pending)
 
 2. **PC Blog Post on Author/Reviewer Profile (关于作者和审稿人的用户信息)**  
