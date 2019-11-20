@@ -14,7 +14,7 @@ Chinese Version: https://bit.ly/334YfWG
 2. **PC Blog Post on Theme （关于主题论文）**  
 Date: October 4, 2019  
 Original Link: https://acl2020.org/blog/theme/  
-Chinese Version: (pending)
+Chinese Version: https://bit.ly/35hTsCT
 
 3. **Archive Papers and Double Submissions (关于预印本论文和重复投稿)**  
 Date: October 23, 2019  
@@ -29,7 +29,7 @@ Chinese Version: https://bit.ly/2NEq4zq
 5. **Improving ACL Conflict-of-interest Detection and Reviewer Matching (改善ACL利益冲突检测和审稿匹配流程)**  
 Date: November 13, 2019  
 Original Link: https://acl2020.org/blog/conflict-of-interest/  
-URL: https://bit.ly/2CGSvYJ
+Chinese Version: https://bit.ly/2CGSvYJ
 
 
 ## Translation Permission
