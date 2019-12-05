@@ -33,7 +33,7 @@ Chinese Version: https://bit.ly/2CGSvYJ
 
 6. **PC Blog Post Six Days Before Deadline! (ACL 2020 PC Blog | 距离截稿还有6天！)**  
 Date: December 04, 2019  
-Original Link: https://acl2020.org/blog/six-days-before-deadline/
+Original Link: https://acl2020.org/blog/six-days-before-deadline/  
 Chinese Version: https://bit.ly/2Rjl4nv
 
 
