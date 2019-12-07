@@ -31,10 +31,15 @@ Date: November 13, 2019
 Original Link: https://acl2020.org/blog/conflict-of-interest/  
 Chinese Version: https://bit.ly/2CGSvYJ
 
-6. **PC Blog Post Six Days Before Deadline! (ACL 2020 PC Blog | 距离截稿还有6天！)**  
+6. **PC Blog Post Six Days Before Deadline! (距离截稿还有6天！)**  
 Date: December 04, 2019  
 Original Link: https://acl2020.org/blog/six-days-before-deadline/  
 Chinese Version: https://bit.ly/2Rjl4nv
+
+7. **Blog Post by Remote Presentation Chairs (关于远程展示)**  
+Date: December 04, 2019  
+Original Link: https://acl2020.org/blog/remote-presentations/ 
+Chinese Version: https://bit.ly/2Yqe9dx
 
 
 ## Translation Permission
