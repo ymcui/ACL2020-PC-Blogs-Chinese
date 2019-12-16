@@ -38,9 +38,13 @@ Chinese Version: https://bit.ly/2Rjl4nv
 
 7. **Blog Post by Remote Presentation Chairs (关于远程展示)**  
 Date: December 04, 2019  
-Original Link: https://acl2020.org/blog/remote-presentations/ 
-Chinese Version: https://bit.ly/2Yqe9dx
+Original Link: https://acl2020.org/blog/remote-presentations/  
+Chinese Version: https://bit.ly/2Yqe9dx  
 
+8. **Global Profile FAQs (全局用户信息FAQs)**  
+Date: December 15, 2019  
+Original Link: https://acl2020.org/blog/global-profile-faqs/  
+Chinese Version:  
 
 ## Translation Permission
 The translation permission is obtained from ACL 2020 program committee.  
