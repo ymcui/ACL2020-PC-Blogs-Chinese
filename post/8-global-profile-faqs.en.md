@@ -2,6 +2,14 @@ Hi all, congratulations on making it through the ACL deadline!  As you know, we�
 
 Please, if you have a moment, read over the blog and update your Global Profile as necessary.  It will take less than 5 minutes and will not only help make this conference a success but future NLP conferences as well.
 
+### Getting to your Global Profile
+
+As a reminder, you can access your Global Profile by going here first:
+
+[https://www.softconf.com/acl2020/papers/](https://www.softconf.com/acl2020/papers/)
+
+Then, log into your START account, go to “User” -> “Account information”-> “Update Profile”. At the bottom, click on “Please click here to update your global user information”. Please provide all the information requested on the form.
+
 ### Global Profile Samples
 
 Sometimes the easiest way to know if you’ve filled in something right is to look at some examples.  We made two fictitious ones below.  Bonus points if you know where Rutland is.
