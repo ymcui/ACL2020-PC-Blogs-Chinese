@@ -1,6 +1,6 @@
-大家好，祝贺大家赶上了ACL的截稿时间！正如大家所知，我们正在使用一些新的方案（全局用户信息以及作者/审稿人表格）来改善利益冲突检测（COI）以及为论文匹配更加适合的审稿人。在上周出现了一些关于如何最好地填写全局用户信息的问题，所以我们认为应该把答案列举在这里。
+大家好，祝贺大家赶上了ACL的截稿时间！正如大家所知，我们正在使用一些新的方案（全局用户信息以及作者/审稿人表格）来改善利益冲突检测（COI）以及为论文匹配更加适合的审稿人。在上周出现了一些关于如何正确填写全局用户信息的问题，所以我们认为应该把答案列举在这里。
 
-如果你有空的话，可以浏览一下本期博客并且按需更新你的全局用户信息。这将花费不到5分钟的时间，不仅会帮助到本次会议有助于未来的NLP会议。
+如果你有空的话，可以浏览一下本期博客并且按需更新你的全局用户信息。这将花费不到5分钟的时间，不仅会帮助到本次会议也会帮助到未来的NLP会议。
 
 ### 获取全局用户信息
 
@@ -8,7 +8,7 @@
 
 [https://www.softconf.com/acl2020/papers/](https://www.softconf.com/acl2020/papers/)
 
-然后，登录你的START账号，进入“User” -> “Account information”-> “Update Profile”。在底部点击“Please click here to update your global user information”。请填写表格中的每一项内容。
+然后，登录你的START帐号，进入“User” -> “Account information”-> “Update Profile”。在底部点击“Please click here to update your global user information”。请填写表格中的每一项内容。
 
 ### 全局用户信息示例
 
@@ -18,13 +18,13 @@
 
 <img width="100%" src="https://acl2020.org/assets/images/0YeSUhP.png"/>
 
-第二个示例（[链接](https://i.imgur.com/2C92j2i.png)）描述了一个新加入该领域的人。他们没有任何发表的论文，所以也没有Semantic Scholar，因此他们填写了n/a。
+第二个示例（[链接](https://i.imgur.com/2C92j2i.png)）描述了一个新加入该领域的人。他们没有任何发表过的论文，所以也没有Semantic Scholar，因此他们填写了n/a。
 
 <img width="100%" src="https://acl2020.org/assets/images/2C92j2i.png"/>
 
 ### Semantic Scholar ID
 
-找到你的Semantic Scholar主页并且把网址填写在这个文本框内。如果你有Semantic Scholar主页，但混入了其他人的论文，这是没有关系的。请填写该网址。不过你最好调整Semantic Scholar主页以准确反映你做的工作--你可以稍后更新该信息。（在你的主页中）有其他的论文不影响ACL 2020的流程进展。
+找到你的Semantic Scholar主页并且把网址填写在这个文本框内。如果你有Semantic Scholar主页，但混入了其他人的论文，这没有关系。请填写该网址。不过你最好调整Semantic Scholar主页以准确反映你做过的工作——你可以稍后更新该信息。（在你的主页中）有其他人的论文不影响ACL 2020的流程进展。
 
 如果你从来没有发表过任何文章，就不会有你的Semantic Scholar主页，所以在文本框内填写n/a。
 
