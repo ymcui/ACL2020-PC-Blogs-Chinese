@@ -44,7 +44,7 @@ Chinese Version: https://bit.ly/2Yqe9dx
 8. **Global Profile FAQs (全局用户信息FAQs)**  
 Date: December 15, 2019  
 Original Link: https://acl2020.org/blog/global-profile-faqs/  
-Chinese Version:  
+Chinese Version: https://bit.ly/36FWEsM  
 
 ## Translation Permission
 The translation permission is obtained from ACL 2020 program committee.  
