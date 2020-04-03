@@ -46,6 +46,22 @@ Date: December 15, 2019
 Original Link: https://acl2020.org/blog/global-profile-faqs/  
 Chinese Version: https://bit.ly/36FWEsM  
 
+9. **Start of Review Process (审稿期开始)**  
+Date: January 23, 2020  
+Original Link: https://acl2020.org/blog/start-of-review-process/  
+Chinese Version: https://bit.ly/2x1Q4kb  
+
+10. **The ACL 2020 Diversity and Inclusion Committee (D&I委员会)**  
+Date: February 4, 2020  
+Original Link: https://acl2020.org/blog/diversity-and-inclusion/  
+Chinese Version: https://bit.ly/3bPofKq  
+
+11. **Accessibility for Camera-Ready Papers (录用论文无障碍阅读写作指南)**  
+Date: April 2, 2020  
+Original Link: https://acl2020.org/blog/accessibility-for-camera-ready/  
+Chinese Version: https://bit.ly/2X7fO9k  
+
+
 ## Translation Permission
 The translation permission is obtained from ACL 2020 program committee.  
 我们已经获得了ACL 2020程序委员会的翻译授权。

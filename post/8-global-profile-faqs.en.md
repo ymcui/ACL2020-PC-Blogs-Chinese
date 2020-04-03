@@ -1,3 +1,4 @@
+# Global Profile FAQs
 Hi all, congratulations on making it through the ACL deadline!  As you know, we’re using a collection of new methods (Global Profile and an Author/Reviewer Form) to improve conflict of interest detection as well as better match reviewers with papers.  A few common questions appeared in the last week on how best to fill out the Global Profile and we thought we should same of our answers here.  
 
 Please, if you have a moment, read over the blog and update your Global Profile as necessary.  It will take less than 5 minutes and will not only help make this conference a success but future NLP conferences as well.

@@ -1,3 +1,4 @@
+# The ACL 2020 Diversity and Inclusion Committee
 ACL 2020 is committed to providing an inclusive conference to participants with diverse needs, academic interests, and socio-demographic backgrounds. There are numerous barriers that limit different participants’ ability to attend our conferences. Our whole community benefits when we strive to remove those barriers and everyone feels welcomed at the conference and can fully participate!
 
 At ACL 2020, the D&amp;I team consists of 13 volunteers from diverse backgrounds and life experiences serving on five subcommittees with their own missions. Leading up to the conference, more information from the D&I team will be shared in blog posts which we hope will be useful for both new and returning participants in the ACL community.

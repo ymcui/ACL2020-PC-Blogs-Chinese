@@ -1,3 +1,4 @@
+# Blog Post by Remote Presentation Chairs
 As with previous conferences, ACL 2020 will allow for remote paper presentations (both oral and poster) in circumstances where none of the authors can attend the conference due to:
 - failure to be awarded a visa (either denied or delayed despite good faith efforts to apply on time) or government travel restrictions that legally prevent attendance,
 - illness or other reasons that physically prevent attendance,

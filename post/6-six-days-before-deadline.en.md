@@ -1,3 +1,4 @@
+# PC Blog Post Six Days Before Deadline!
 We are only six days away from the submission deadline!!  ACL 2020 is experimenting with several new implementations to keep up with the growing number of submissions. First of all,  we would like to thank you for your patience and cooperation!
 
 Here are a couple reminders/clarifications regarding the Global Profile and the Author/Reviewer information form. 
