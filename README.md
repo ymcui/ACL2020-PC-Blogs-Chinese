@@ -61,6 +61,11 @@ Date: April 2, 2020
 Original Link: https://acl2020.org/blog/accessibility-for-camera-ready/  
 Chinese Version: https://bit.ly/2X7fO9k  
 
+12. **Camera-Ready instructions (录用论文终稿撰写指南)**  
+Date: April 14, 2020  
+Original Link: https://acl2020.org/authors/camera-ready-instructions/  
+Chinese Version: https://bit.ly/2VtNg7t  
+
 
 ## Translation Permission
 The translation permission is obtained from ACL 2020 program committee.  
